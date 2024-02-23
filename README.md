@@ -24,6 +24,6 @@
 
 ## ⚙️ VS Code Extension for C
 
--C/C++
--C/C++ Extension Pack
--Code Runner
+- C/C++
+- C/C++ Extension Pack
+- Code Runner
